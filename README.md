@@ -11,3 +11,9 @@ The AI-Generated Comedy Show is an innovative application that combines advanced
   - **Gemini AI**: Joke generation
   - **D-ID**: Avatar and video content creation
 - **Backend**: [Include backend details if applicable]
+
+## Demo
+
+
+https://github.com/user-attachments/assets/fb1cc133-bd12-45c0-b311-ad609d60a562
+
